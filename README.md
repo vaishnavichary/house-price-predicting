@@ -1,2 +1,2 @@
-# hose-price-predicting
+# house-price-predicting
 ML Mini project

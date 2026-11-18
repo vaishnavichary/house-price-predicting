@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated project outputs (created when main.py runs)
+data/*.csv
+outputs/*.csv
+outputs/plots/*.png
+models/*.joblib
